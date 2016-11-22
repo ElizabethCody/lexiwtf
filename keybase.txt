@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/encrypted
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://lexi.wtf
+  * I am encrypted (https://keybase.io/encrypted) on keybase.
+  * I have a public key with fingerprint 7733 4EDB 314A 9399 71BE  88DE 05DA 9C40 BFDA 11D2
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "77334edb314a939971be88de05da9c40bfda11d2",
+            "host": "keybase.io",
+            "key_id": "05da9c40bfda11d2",
+            "kid": "0101227c3d40de7ddf98bb21634dfe7c4979e7f3530bc3df7f7cba43d5a59a0927ab0a",
+            "uid": "954d1bb83d80bb6f6e746b28f0de3e19",
+            "username": "encrypted"
+        },
+        "service": {
+            "hostname": "lexi.wtf",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1441456562,
+    "expire_in": 157680000,
+    "prev": "c948fbc16240544f3294f0c54f2178119993552330c556e2f4c71bdfb8b21302",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.43
+Comment: https://keybase.io/crypto
+
+yMIWAnicbZJbSBVBHMbP8ZJ5QJSSKEyCJYTokDs7s5c5kfngk2lBV4JIdnZmPYu2
+e9yz3lArDTN7kMBL0Q3KMrpoXh6sB8vKrPCtwnpIoQIhC0RMKug2a/XWvAzzzff9
+ZuY//7G0xEAomPj+hh4t1vuDEw/yKgN7Zt8O1gnEobVCpE4oY0uTadmlzI25lu0J
+EUFVIUSMEgiQjiHGKiBM0ygTZapjA4nEpDoAVBLCQtSJ+wmOIXqcbbIcrvFFiUW5
++h9/2Z8NIAJJUg1IkUiZSqmJNUIkoEBETaYaCKuYqSaUoUi4yVRN1SA6glTWZayL
+WFJ1IuocV7mEwzKigBANUk0kRDEVpiKFSJrJ4ZAB7BvjzLX1Q4y7mW24tTGPUaEh
+LHC5yjKYXwP/KX8t5azG2lTtmTwYcx3PMZxyrkY9LxbxQ15tzHdVM1LyN19CLJvy
+GvJAFXPjlmMLEcCdhmf5QIAQQLIiK1JYYDUxy2Ullu+QVUUT+fCPYVUcaWCkmcQA
+ioREGSETShiZoiEjUwKqBgDGGMqyBCHXZIVJJjL451CTaLx6UPQrHGcVtsPZgN9T
+L+XMuFVq616ly4SGh6MHkgLBUGBZcoLfBoFQasa/5tjYkfI9vWPNjsLXm0c6bl2B
+sXDj8s7q9q3Z6z939efcaLpQftHOLD5+qDBfeNyVUh88ltizmB8sKmxpG8xZMfz8
+HnGeZcv05pqatvyBE5N7h8aH71esO/JEOjWX+mlD64HuhlXal/0wr3c+cTSzd/JN
+X/LC1RZhtiWhseBVV9HMlu47/U3Tcwez1i6E3k6fvXumcTT0tNXdFr7ec7RloOLr
+N61vNLp4enGo0zoHdo9HzmuPGm9PgJ/pcTAcxcpUWbR+ZKCg3Zkaq9jZXPfuxS9k
+7Lw0tPj85PSHa9ejGVcPX365obOoYV48lyv2BpSu1Xm523+kee37IjPNWreelfRR
+2LVy72+hAigN
+=7UwJ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/encrypted
+
+==================================================================
